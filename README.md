@@ -1,3 +1,7 @@
+> [!NOTE]
+> 你有什么新奇的想法可以联系我
+> [@Akid_V](https://t.me/Akid_V)
+
 # Eyuyan_Curl
 1. 这是一个基于Openssl+CURL系列开发高度拟浏览器的易语言框架
 2. 本项目只适用于Eyuyan_X86用户
